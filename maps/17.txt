@@ -1,0 +1,25 @@
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+X,X, ,X, , , ,X,X,X,X,X,X, , , , , ,X,X, , , ,X,X
+X, , , , ,X, ,X, , , , , , ,X, ,X, ,X,X, ,X, ,X,X
+X, , ,X, ,X, , , ,X,X,X,X, ,X,X,X, , ,X, ,X, , ,X
+X, ,X,X,X,X, ,X, ,X,X,X,X, ,X,X,X,X, , , , , ,X,X
+X, , ,X,X, , ,X, , ,X,X,X, ,X,X,X,X,X, ,X, ,X,X,X
+X,X, , ,X, ,X, ,X, ,X,X,X, , ,X,X,X,X, ,X, , ,X,X
+X, , ,X,X, , , ,X, , ,X,X,X, , , , ,X, ,X,X, ,X,X
+X, ,x,X,X,X, ,X,X,X, ,X,X, , ,X,X, ,X, ,X,X, , ,X
+X, ,X,X, ,X, ,X,X, , , , , ,X,X,X, , , ,X,X, ,X,X
+X,X, , , , , ,X, , ,X,X,X, ,X,X, , ,X, , ,X, ,P,X
+X,X, ,X,X,X, ,X, ,X,X,X,X, ,X, , ,X,X,X, ,X,X, ,X
+X,X, ,X,X, , ,X, ,X,X, , , ,X, ,X,X,X,X, , ,X, ,X
+X,X, ,X, , ,X,X,X,X,X,X,X, , ,X,X,X, , , , ,X, ,X
+X,X, ,X,X,X,X,X,X,X, ,X,X,X, ,X,X,X, ,X,X, , , ,X
+X,T, , , , , ,X, , , , ,X, , ,X,X, , ,X, ,X, , ,X
+X, ,X,X,X,X, ,X,X, ,X, ,X, ,X, , , , ,X, , , ,X,X
+X, , ,X,X,X, , ,X, ,X, , , ,X,X, ,X,X,X, ,X,X,X,X
+X,X, ,X,X,X,X, , , ,X, ,X,X,X,X, , ,X,X, ,X, ,X,X
+X,X, ,X, ,X,X,X, ,X,X,X,X, , , , , , , , , , ,X,X
+X,X, ,X, , ,X, , , , ,X,X, ,X, ,X,X, ,X,X,X, ,X,X
+X,X, ,X,X, ,X,X, ,X, , ,X,X,X, ,X,X,X,X,X,X, ,X,X
+X,X, , , , , , , ,X,X, , , , , ,X,X,X, ,X, , , ,X
+X,X,X,X, , ,X,X,X,X,X,X, , ,X, , , , , , , ,X, ,X
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
